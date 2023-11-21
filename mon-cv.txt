@@ -21,3 +21,5 @@ Je manipule le versionning avec GIT
 ## ajout test branche
 
 ## test conflit
+
+## test conflit qui creer conflit
