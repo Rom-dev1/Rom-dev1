@@ -1,4 +1,4 @@
-# Romain Trochu, Gestionnaire administratif
+# Romain Trochu, Assistant de direction
 
 ## À propos de moi
 Je manipule le versionning avec GIT
@@ -15,4 +15,5 @@ Je manipule le versionning avec GIT
 - Gestion du Temps
 - Communication
 - Gestion de l'espace de travail, réslution des problèmes
-Analyse des données administratives
+- Analyse des données administratives
+- plannification stratégique
