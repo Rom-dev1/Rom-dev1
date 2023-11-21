@@ -19,3 +19,5 @@ Je manipule le versionning avec GIT
 - plannification stratégique
 
 ## ajout test branche
+
+## test conflit
