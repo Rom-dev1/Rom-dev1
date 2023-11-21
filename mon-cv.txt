@@ -1,4 +1,4 @@
-# Romain Trochu, Assistant Personnel
+# Romain Trochu, Responsable de bureau
 
 ## À propos de moi
 Je manipule le versionning avec GIT
@@ -14,3 +14,4 @@ Je manipule le versionning avec GIT
 
 - Gestion du Temps
 - Communication
+- Gestion de l'espace de travail, réslution des problèmes
