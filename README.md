@@ -23,3 +23,5 @@ Je manipule le versionning avec GIT
 ## test conflit
 
 ## test conflit qui creer conflit
+
+## test after git clone 
