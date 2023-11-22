@@ -22,4 +22,4 @@ Je manipule le versionning avec GIT
 
 ## test conflit
 
-## test conflit qui creer conflit
+## Ajout d'un test branch distant to local
